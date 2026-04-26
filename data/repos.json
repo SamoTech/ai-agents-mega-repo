@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "cheatcode-ai/cheatcode",
+    "name": "cheatcode",
+    "categories": ["coding-agent", "chat-interface"],
+    "summary": "AI coding agent with a chat-centered workflow.",
+    "source": "github",
+    "stage": "seed"
+  },
+  {
+    "slug": "bcurts/agentchattr",
+    "name": "agentchattr",
+    "categories": ["local-chat", "multi-agent"],
+    "summary": "Local chat environment for humans and AI coding agents.",
+    "source": "github",
+    "stage": "seed"
+  },
+  {
+    "slug": "langchain-ai/agent-chat-ui",
+    "name": "agent-chat-ui",
+    "categories": ["chat-ui", "frontend", "langgraph"],
+    "summary": "Frontend starter for agent conversation experiences.",
+    "source": "github",
+    "stage": "seed"
+  },
+  {
+    "slug": "microsoft/ai-cheatcode",
+    "name": "ai-cheatcode",
+    "categories": ["reference", "learning"],
+    "summary": "Reference-style AI examples and learning material.",
+    "source": "github",
+    "stage": "seed"
+  }
+]

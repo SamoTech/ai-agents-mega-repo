@@ -1,0 +1,18 @@
+{
+  "name": "ai-agents-mega-repo",
+  "private": true,
+  "version": "0.1.0",
+  "packageManager": "pnpm@10.0.0",
+  "scripts": {
+    "dev": "turbo run dev --parallel",
+    "build": "turbo run build",
+    "lint": "turbo run lint",
+    "check:data": "node packages/cli/src/index.js validate",
+    "cli:list": "node packages/cli/src/index.js list",
+    "cli:json": "node packages/cli/src/index.js json"
+  },
+  "devDependencies": {
+    "turbo": "^2.0.0",
+    "typescript": "^5.6.0"
+  }
+}
